@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments for spa lab</title>
+	<atom:link href="http://wedesignthemes.com/themes/dt-spalab/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://wedesignthemes.com/themes/dt-spalab</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 16 Sep 2015 11:06:07 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Comment on Invest in a Healthy Tomorrow by vennila</title>
+		<link>http://wedesignthemes.com/themes/dt-spalab/invest-in-a-healthy-tomorrow/#comment-293</link>
+		<dc:creator><![CDATA[vennila]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2015 04:25:31 +0000</pubDate>
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/spalab/?p=26#comment-293</guid>
+		<description><![CDATA[Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo,]]></description>
+		<content:encoded><![CDATA[<p>Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo,</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Invest in a Healthy Tomorrow by admin</title>
+		<link>http://wedesignthemes.com/themes/dt-spalab/invest-in-a-healthy-tomorrow/#comment-261</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 16 Feb 2015 05:30:49 +0000</pubDate>
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/spalab/?p=26#comment-261</guid>
+		<description><![CDATA[sit amet sem. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Lorem ipsum dolor sit amet, consectetur ad]]></description>
+		<content:encoded><![CDATA[<p>sit amet sem. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Lorem ipsum dolor sit amet, consectetur ad</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Sweet Massage Dreams by Vennila</title>
+		<link>http://wedesignthemes.com/themes/dt-spalab/sweet-massage-dreams/#comment-59</link>
+		<dc:creator><![CDATA[Vennila]]></dc:creator>
+		<pubDate>Wed, 03 Sep 2014 11:38:42 +0000</pubDate>
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/spalab/?p=22#comment-59</guid>
+		<description><![CDATA[There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words.]]></description>
+		<content:encoded><![CDATA[<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Sweet Massage Dreams by Lee Min Hoo</title>
+		<link>http://wedesignthemes.com/themes/dt-spalab/sweet-massage-dreams/#comment-58</link>
+		<dc:creator><![CDATA[Lee Min Hoo]]></dc:creator>
+		<pubDate>Wed, 03 Sep 2014 11:38:20 +0000</pubDate>
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/spalab/?p=22#comment-58</guid>
+		<description><![CDATA[Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.]]></description>
+		<content:encoded><![CDATA[<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Spas and the Psychology of Well-Being by Megna shin</title>
+		<link>http://wedesignthemes.com/themes/dt-spalab/spas-and-the-psychology-of-well-being/#comment-57</link>
+		<dc:creator><![CDATA[Megna shin]]></dc:creator>
+		<pubDate>Wed, 03 Sep 2014 11:37:31 +0000</pubDate>
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/spalab/?p=16#comment-57</guid>
+		<description><![CDATA[Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.]]></description>
+		<content:encoded><![CDATA[<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Spas and the Psychology of Well-Being by Sana</title>
+		<link>http://wedesignthemes.com/themes/dt-spalab/spas-and-the-psychology-of-well-being/#comment-56</link>
+		<dc:creator><![CDATA[Sana]]></dc:creator>
+		<pubDate>Wed, 03 Sep 2014 11:36:23 +0000</pubDate>
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/spalab/?p=16#comment-56</guid>
+		<description><![CDATA[It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.]]></description>
+		<content:encoded><![CDATA[<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Mother Glows Best by Lee Min Hoo</title>
+		<link>http://wedesignthemes.com/themes/dt-spalab/mother-glows-best/#comment-54</link>
+		<dc:creator><![CDATA[Lee Min Hoo]]></dc:creator>
+		<pubDate>Wed, 03 Sep 2014 11:31:24 +0000</pubDate>
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/spalab/?p=27#comment-54</guid>
+		<description><![CDATA[Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.]]></description>
+		<content:encoded><![CDATA[<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Mother Glows Best by Vennila</title>
+		<link>http://wedesignthemes.com/themes/dt-spalab/mother-glows-best/#comment-53</link>
+		<dc:creator><![CDATA[Vennila]]></dc:creator>
+		<pubDate>Wed, 03 Sep 2014 11:29:20 +0000</pubDate>
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/spalab/?p=27#comment-53</guid>
+		<description><![CDATA[There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#039;t look even slightly believable.]]></description>
+		<content:encoded><![CDATA[<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Beauty Inspiration by admin</title>
+		<link>http://wedesignthemes.com/themes/dt-spalab/beauty-inspiration/#comment-15</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 26 May 2014 12:56:16 +0000</pubDate>
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/spalab/?p=23#comment-15</guid>
+		<description><![CDATA[It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layoutIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.]]></description>
+		<content:encoded><![CDATA[<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layoutIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Beauty Inspiration by admin</title>
+		<link>http://wedesignthemes.com/themes/dt-spalab/beauty-inspiration/#comment-14</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 26 May 2014 12:55:42 +0000</pubDate>
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/spalab/?p=23#comment-14</guid>
+		<description><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s,Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s,]]></description>
+		<content:encoded><![CDATA[<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s,Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s,</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

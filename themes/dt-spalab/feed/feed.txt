@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>spa lab</title>
+	<atom:link href="http://wedesignthemes.com/themes/dt-spalab/feed/" rel="self" type="application/rss+xml" />
+	<link>http://wedesignthemes.com/themes/dt-spalab</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 02 Apr 2016 07:58:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Invest in a Healthy Tomorrow</title>
+		<link>http://wedesignthemes.com/themes/dt-spalab/invest-in-a-healthy-tomorrow/</link>
+		<comments>http://wedesignthemes.com/themes/dt-spalab/invest-in-a-healthy-tomorrow/#comments</comments>
+		<pubDate>Wed, 21 May 2014 13:25:14 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[wellness-center]]></category>
+		<category><![CDATA[Yoga]]></category>
+		<category><![CDATA[relax]]></category>
+
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/spalab/?p=26</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero. Nulla vestibulum sem a est tempus sed fringilla lorem [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero. Nulla vestibulum sem a est tempus sed fringilla lorem sagittis. Phasellus mi orci, fermentum. <span class=' dt-sc-pullquote1 quotes alignright' > Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit </span>   Aonsectetur adipiscing elit.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero <span class=' dt-sc-pullquote1 quotes alignleft' > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac luctus ligula. Phasellus a ligula blandit </span> adipiscing.</p>
+<p>Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.</p>
+<p>Nam sit amet sem. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.</p>
+<span class=' dt-sc-pullquote1 quotes aligncenter' > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac luctus ligula. Phasellus a ligula blandit </span>
+]]></content:encoded>
+			<wfw:commentRss>http://wedesignthemes.com/themes/dt-spalab/invest-in-a-healthy-tomorrow/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>The Latest Spa Craze</title>
+		<link>http://wedesignthemes.com/themes/dt-spalab/the-latest-spa-craze/</link>
+		<comments>http://wedesignthemes.com/themes/dt-spalab/the-latest-spa-craze/#respond</comments>
+		<pubDate>Wed, 21 May 2014 13:24:36 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cuisine]]></category>
+		<category><![CDATA[Massage]]></category>
+		<category><![CDATA[Body-care]]></category>
+
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/spalab/?p=18</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero. Nulla vestibulum sem a est tempus sed fringilla lorem [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero. Nulla vestibulum sem a est tempus sed fringilla lorem sagittis. Phasellus mi orci, fermentum.<span class=' dt-sc-pullquote2 quotes alignright' > Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit </span> Aonsectetur adipiscing elit.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero <span class=' dt-sc-pullquote2 quotes alignleft' > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus ligula. Phasellus a ligula blandit </span> adipiscing.</p>
+<p>Imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.</p>
+<p>Nam sit amet sem. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.</p>
+<span class=' dt-sc-pullquote2 quotes aligncenter' > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac luctus ligula. Phasellus a ligula blandit </span>
+]]></content:encoded>
+			<wfw:commentRss>http://wedesignthemes.com/themes/dt-spalab/the-latest-spa-craze/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Stylish hair extensions</title>
+		<link>http://wedesignthemes.com/themes/dt-spalab/stylish-hair-extensions/</link>
+		<comments>http://wedesignthemes.com/themes/dt-spalab/stylish-hair-extensions/#respond</comments>
+		<pubDate>Wed, 21 May 2014 13:22:07 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Interiors]]></category>
+		<category><![CDATA[medical]]></category>
+		<category><![CDATA[center]]></category>
+
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/spalab/?p=13</guid>
+		<description><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. What are the Different Types of Hair Treatment For Men? Promotes hair [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+<h5>What are the Different Types of Hair Treatment For Men?</h5>
+<div  class='column dt-sc-one-half  first'><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p></div>
+<div  class='column dt-sc-one-half  '><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p></div>
+<h5>Promotes hair growth</h5>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+<p>Like Aldus PageMaker including versions of Lorem Ipsum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Itiam id augue vitae odio accumsan condimentum id in urna. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero. Contrary to popular belief, Lorem Ipsum is not simply random text.<br />
+<div class='dt-sc-hr '></div>
+]]></content:encoded>
+			<wfw:commentRss>http://wedesignthemes.com/themes/dt-spalab/stylish-hair-extensions/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Beauty Inspiration</title>
+		<link>http://wedesignthemes.com/themes/dt-spalab/beauty-inspiration/</link>
+		<comments>http://wedesignthemes.com/themes/dt-spalab/beauty-inspiration/#comments</comments>
+		<pubDate>Wed, 21 May 2014 13:20:59 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[day-spa]]></category>
+		<category><![CDATA[medical]]></category>
+		<category><![CDATA[Spa]]></category>
+
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/spalab/?p=23</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero. Nulla vestibulum sem a est tempus sed fringilla lorem [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero. Nulla vestibulum sem a est tempus sed fringilla lorem sagittis. Phasellus mi orci, fermentum.<span class=' dt-sc-pullquote3 quotes alignright' > Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit </span> Aonsectetur adipiscing elit.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.<span class=' dt-sc-pullquote3 quotes alignleft' > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus ligula. Phasellus a ligula blandit </span> Aonsectetur etiam dictum nunc id feugiat cursus, souvivamus luctus ligula nulla orci pretium nisl, felis et ulla soumha phis enim adipiscing.</p>
+<p>Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.</p>
+<p>Nam sit amet sem. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.</p>
+<span class=' dt-sc-pullquote3 quotes aligncenter' > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac luctus ligula. Phasellus a ligula blandit </span>
+]]></content:encoded>
+			<wfw:commentRss>http://wedesignthemes.com/themes/dt-spalab/beauty-inspiration/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Hair Care and Trendy Styles</title>
+		<link>http://wedesignthemes.com/themes/dt-spalab/hair-care-and-trendy-styles/</link>
+		<comments>http://wedesignthemes.com/themes/dt-spalab/hair-care-and-trendy-styles/#respond</comments>
+		<pubDate>Wed, 21 May 2014 13:18:12 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Ayurvedic]]></category>
+		<category><![CDATA[skincare]]></category>
+
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/spalab/?p=33</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero. Nulla vestibulum sem a est tempus sed fringilla lorem [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero. Nulla vestibulum sem a est tempus sed fringilla lorem sagittis. Phasellus mi orci, fermentum.<span class=' dt-sc-pullquote4 quotes alignright' > Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit </span> Aonsectetur adipiscing elit.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.<span class=' dt-sc-pullquote4 quotes alignleft' > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus ligula. Phasellus a ligula blandit </span> Aonsectetur adipiscing.</p>
+<p>Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.</p>
+<p>Nam sit amet sem. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.</p>
+<span class=' dt-sc-pullquote4 quotes aligncenter' > Lorem ipsum dolor amec, consectetur adipiscing elit. Vivamus ac luctus ligula, Phasellus ligula blandit </span>
+]]></content:encoded>
+			<wfw:commentRss>http://wedesignthemes.com/themes/dt-spalab/hair-care-and-trendy-styles/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mother Glows Best</title>
+		<link>http://wedesignthemes.com/themes/dt-spalab/mother-glows-best/</link>
+		<comments>http://wedesignthemes.com/themes/dt-spalab/mother-glows-best/#comments</comments>
+		<pubDate>Wed, 21 May 2014 13:17:35 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cuisine]]></category>
+		<category><![CDATA[day-spa]]></category>
+		<category><![CDATA[Skin]]></category>
+		<category><![CDATA[Yoga]]></category>
+
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/spalab/?p=27</guid>
+		<description><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software.<br />
+<blockquote class='type1 ' ><q><q>The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.&#8221; It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</q></q> </blockquote>
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &#8216;Content here, content here&#8217;, making it look like readable English.<br />
+<div class='dt-sc-hr-invisible-small  '></div>
+<h5>Contrary to popular belief</h5>
+<p>Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.</p>
+<p>Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of &#8220;de Finibus Bonorum et Malorum&#8221; (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, &#8220;Lorem ipsum dolor sit amet..&#8221;, comes from a line in section 1.10.32.</p>
+<span class=' dt-sc-pullquote6 quotes aligncenter' > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac luctus ligula. Phasellus a ligula blandit </span>
+<div class='dt-sc-hr '></div>
+]]></content:encoded>
+			<wfw:commentRss>http://wedesignthemes.com/themes/dt-spalab/mother-glows-best/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Spas and the Psychology of Well-Being</title>
+		<link>http://wedesignthemes.com/themes/dt-spalab/spas-and-the-psychology-of-well-being/</link>
+		<comments>http://wedesignthemes.com/themes/dt-spalab/spas-and-the-psychology-of-well-being/#comments</comments>
+		<pubDate>Wed, 21 May 2014 13:00:48 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Treatment]]></category>
+		<category><![CDATA[wellness-center]]></category>
+		<category><![CDATA[Resort]]></category>
+
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/spalab/?p=16</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero. Nulla vestibulum sem a est tempus sed fringilla lorem [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero. Nulla vestibulum sem a est tempus sed fringilla lorem sagittis. Phasellus mi orci, fermentum.<span class=' dt-sc-pullquote2 quotes alignright' > Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit </span> Aonsectetur adipiscing elit.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero <span class=' dt-sc-pullquote2 quotes alignleft' > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus ligula. Phasellus a ligula blandit </span>
+<p>Imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.</p>
+<p>Nam sit amet sem. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.</p>
+<span class=' dt-sc-pullquote2 quotes aligncenter' > Lorem ipsum dolor sit amec consectetur adipiscing elit, phasellus a ligula blandit </span>
+]]></content:encoded>
+			<wfw:commentRss>http://wedesignthemes.com/themes/dt-spalab/spas-and-the-psychology-of-well-being/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Sweet Massage Dreams</title>
+		<link>http://wedesignthemes.com/themes/dt-spalab/sweet-massage-dreams/</link>
+		<comments>http://wedesignthemes.com/themes/dt-spalab/sweet-massage-dreams/#comments</comments>
+		<pubDate>Wed, 21 May 2014 12:45:50 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Massage]]></category>
+		<category><![CDATA[Spalon]]></category>
+		<category><![CDATA[Ageless]]></category>
+
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/spalab/?p=22</guid>
+		<description><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+<p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem ipsum dolor sit amet, consectetur adipiscing.Vivamus ac luctus ligula. Phasellus a ligula blandit Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for &#8216;lorem ipsum&#8217; will uncover many web sites still in their in finibus Bonorum et Malorum.</p>
+<div id="attachment_203" style="width: 310px" class="wp-caption alignleft"><img class="size-medium wp-image-203" src="http://wedesignthemes.com/themes/spalab/wp-content/uploads/2014/05/ft13.jpg" alt="This is image post" width="300" height="200" /><p class="wp-caption-text">Spa Dreams !!!</p></div>
+<p>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &#8216;Content here, content here&#8217;, making it look like readable English.Nullam sed porttitor nisi. Vivamus tristique lorem eu massa tristique.</p>
+<p>Donec sed risus rutrum, varius massa id, vulputate ante. Morbi risus velit, volutpat posuere dolor hendrerit, faucibus ultrices nisl. Cras sem ante, ornare vel consectetur ut, sodales eget tellus.Contrary to popular belief, Lorem Ipsum is not simply random text.</p>
+<p>It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature</p>
+<blockquote class='type1 ' ><q><q>The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.” It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</q></q> </blockquote>
+<div class="hr-invisible-very-small"></div>
+<div class="clear"></div>
+<p>Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.Ecircumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise.<br />
+<div class='dt-sc-hr '></div>
+]]></content:encoded>
+			<wfw:commentRss>http://wedesignthemes.com/themes/dt-spalab/sweet-massage-dreams/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Beauty and Spa Theraphy</title>
+		<link>http://wedesignthemes.com/themes/dt-spalab/beauty-and-spa-theraphy/</link>
+		<comments>http://wedesignthemes.com/themes/dt-spalab/beauty-and-spa-theraphy/#respond</comments>
+		<pubDate>Wed, 21 May 2014 12:40:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Treatment]]></category>
+		<category><![CDATA[Ageless]]></category>
+
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/spalab/?p=32</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero. Nulla vestibulum sem a est tempus sed fringilla lorem [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero. Nulla vestibulum sem a est tempus sed fringilla lorem sagittis. Phasellus mi orci, fermentum. <span class=' dt-sc-pullquote1 quotes alignright' > Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit </span>   Aonsectetur adipiscing elit.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero <span class=' dt-sc-pullquote1 quotes alignleft' > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac luctus ligula. Phasellus a ligula blandit </span> adipiscing eliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi justo volutpat silousen enim.</p>
+<p>Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.</p>
+<p>Nam sit amet sem. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.</p>
+<span class=' dt-sc-pullquote1 quotes aligncenter' > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac luctus ligula. Phasellus a ligula blandit </span>
+]]></content:encoded>
+			<wfw:commentRss>http://wedesignthemes.com/themes/dt-spalab/beauty-and-spa-theraphy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Strong is the New Skinny</title>
+		<link>http://wedesignthemes.com/themes/dt-spalab/strong-is-the-new-skinny/</link>
+		<comments>http://wedesignthemes.com/themes/dt-spalab/strong-is-the-new-skinny/#respond</comments>
+		<pubDate>Wed, 21 May 2014 12:35:50 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Spalon]]></category>
+		<category><![CDATA[Hydrated]]></category>
+
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/spalab/?p=28</guid>
+		<description><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+<div class="hr-invisible-very-small"></div>
+<div class="clear"></div>
+<blockquote class='type1 ' ><q><q>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac luctus ligula. Phasellus a ligula blandit. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.</q></q> </blockquote>
+<div class="hr-invisible-very-small"></div>
+<div class="clear"></div>
+<p>More recently with desktop publishing software like Aldus PageMaker including versions of dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit Many desktop publishing packages and web page editors.</p>
+<div class="hr-invisible-very-small"></div>
+<div class="clear"></div>
+<h5>classical Latin literature</h5>
+<div  class='column dt-sc-one-half  first'><span class='dt-sc-dropcap dt-sc-dropcap-square '  style="background-color:#72448D;">B</span> ali has become a magnet for spa lovers, with its own genre of spas, each incorporating a beauty salon where facials, hair treatments (<i>cream baths</i>), manicures and pedicures are expertly and professionally dispensed. Balinese masseurs and masseuses are renowned for the caring way their gentle personalities are transmitted through their hands.</div>
+<div  class='column dt-sc-one-half  '><span class='dt-sc-dropcap dt-sc-dropcap-square '  style="background-color:#72448D;">C</span> ontrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage.</div>
+<div class='dt-sc-hr '></div>
+]]></content:encoded>
+			<wfw:commentRss>http://wedesignthemes.com/themes/dt-spalab/strong-is-the-new-skinny/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
